@@ -1,0 +1,14 @@
+uuid: 8ac27bed-6891-4db0-b2ab-2965d5c62c1a
+name: Blog
+mail: vasiliylaykin@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
